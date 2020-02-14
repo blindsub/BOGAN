@@ -1,0 +1,2 @@
+C,kernel,gamma,decision_function_shape,pred_loss,real_loss
+15.0, rbf, 1.0, ovr, 77.92510416666667, 78.75

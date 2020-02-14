@@ -1,0 +1,4 @@
+sort_buffer_size,join_buffer_size,table_open_cache,thread_cache_size,query_cache_limit,max_allowed_packet,max_connect_errors,tmp_table_size,max_heap_table_size,innodb_autoextend_increment,innodb_buffer_pool_size,innodb_additional_mem_pool_size,innodb_log_buffer_size,queries,真实
+2255,424,1768,54,1521,7424,155,13270,3567,23438,36,6560,31887,7958.04216,6999.46
+3965,537,631,22,2866,15667,212,119865,7360,24422,225,7097,31750,8037.679978,6268.24
+2254,409,1766,56,1482,7422,137,12906,3889,25237,117,6535,31651,7958.04216,6406.46

@@ -1,0 +1,4 @@
+XX:MaxNewSize,Xms,Xmx,protocol,maxHttpHeaderSize,maxThreads,minSpareThreads,maxSpareThreads,minProcessors,acceptCount,enableLookups,connectionTimeout,disableUploadTimeout,compressionMinSize,throughout
+256,128,512,org.apache.coyote.http11.Http11AprProtocol,8192,1000,25,500,10,50,FALSE,16612,TRUE,2048,10633.01907
+64,64,128,org.apache.coyote.http11.Http11AprProtocol,8192,500,25,75,100,50,FALSE,25335,FALSE,2048,8811.090226
+64,128,128,org.apache.coyote.http11.Http11AprProtocol,16384,500,25,250,100,50,FALSE,47114,TRUE,1024,8161.932746

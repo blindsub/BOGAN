@@ -1,0 +1,4 @@
+num_network_threads,num_io_threads,queued_max_requests,num_replica_fetchers,socket_receive_buffer.bytes,socket_send_buffer_bytes,socket_request_max_bytes,buffer_memory,batch_size,linger_ms,compression_type,acks,预测值,实际值
+17,8,49,14,20,7,16,30,46,14,none,1,30.82983637,27.99
+17,8,49,14,20,7,16,31,46,13,none,1,30.82983637,30.51
+16,8,51,14,20,7,8,30,46,16,none,1,30.82451087,29.36

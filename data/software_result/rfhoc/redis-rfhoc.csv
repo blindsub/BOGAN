@@ -1,0 +1,4 @@
+repl_backlog_size,hash_max_ziplist_value,hash_max_ziplist_entries,list_max_ziplist_size,active_defrag_ignore_bytes,active_defrag_threshold_lower,hll_sparese_max_bytes,hz,predict_result,’Ê µ÷µ
+8,73,967,-2,186,13,986,161,49475.30718,46296.3
+8,73,968,-2,186,13,1003,162,49475.30718,47846.89
+8,73,968,-2,186,13,999,168,49475.30718,46728.97

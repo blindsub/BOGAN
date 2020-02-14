@@ -1,0 +1,2 @@
+lr, numOfL1, numOfL2, keep_prob, batch_size, pred_loss, real_loss
+1.0, 119, 47, 1.0, 30, 369.077757848945, 39.50983832

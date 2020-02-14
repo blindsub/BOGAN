@@ -1,0 +1,2 @@
+max_depth, n_estimators, learning_rate, subsample, min_child_weight
+72, 357, 1.0, 1.0, 9, 0.2978124999999998, 0.3
